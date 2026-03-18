@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shilp31
 - 👀 I’m interested in everything about IT spanning across on premise and cloud software development, CICD, AI/ML and many more!
-- 🌱 I’m currently playing "The Bandit" wargame.  
+- 🌱 I’m currently working on a React project.  
 - 📫 How to reach me ... shilpa.ms7264@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ... *TODO*
